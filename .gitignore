@@ -1,46 +1,60 @@
 ```
-# Android
-*.apk
-*.aar
-*.dex
-*.so
-*.jar
+# Kotlin/Android build artifacts
 *.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar
+*.tar.gz
+*.tar.bz2
+*.tar.xz
+*.7z
+*.rar
+*.gz
+*.bz2
+*.xz
+*.zst
+*.lz4
+*.lzh
+*.cab
+*.arj
+*.rpm
+*.deb
+*.Z
+*.lz
+*.lzo
+
+# Android specific
+*.apk
+*.aab
+*.dex
 
 # Gradle
 .gradle/
 build/
-intermediates/
-outputs/
-.externalNativeBuild
-.cxx/
 
 # Local configuration file (sdk path, etc)
 local.properties
 
-# Log Files
-*.log
-
-# Built application files
-bin/
-gen/
-
-# Unit test results
-test-results/
-*.cover
-
-# Code coverage reports
-coverage/
-*.ec
-
-# Project backup
-*.bak
-
-# IDE
+# IDE - Android Studio
 .idea/
 *.iml
 *.iws
-.vscode/
+*.ipr
+out/
+
+# IntelliJ
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Temporary folder for Ktlint
+.ktlint
+
+# Logs
+*.log
 
 # OS generated files
 .DS_Store
@@ -50,4 +64,12 @@ coverage/
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# Built application files
+bin/
+gen/
+obj/
+
+# Unit test results
+test-results/
 ```
