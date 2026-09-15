@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors -->
+    <color name="dark_slate">#1E293B</color>
+    <color name="dark_slate_variant">#0F172A</color>
+    <color name="card_surface">#334155</color>
+    <color name="card_surface_light">#475569</color>
+    <color name="emerald_green">#10B981</color>
+    <color name="emerald_green_dark">#059669</color>
+    <color name="emerald_green_light">#34D399</color>
+    
+    <!-- Text Colors -->
+    <color name="white">#FFFFFF</color>
+    <color name="muted_grey">#94A3B8</color>
+    <color name="muted_grey_dark">#64748B</color>
+    
+    <!-- Status Colors -->
+    <color name="success">#10B981</color>
+    <color name="warning">#F59E0B</color>
+    <color name="error">#EF4444</color>
+    <color name="info">#3B82F6</color>
+    
+    <!-- Background -->
+    <color name="background_primary">#1E293B</color>
+    <color name="background_secondary">#0F172A</color>
+    
+    <!-- Shimmer Colors -->
+    <color name="shimmer_base">#334155</color>
+    <color name="shimmer_highlight">#475569</color>
+</resources>
