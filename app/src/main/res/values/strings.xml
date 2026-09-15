@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WorkID</string>
+    <string name="hello_user">Selamat Pagi, %1$s</string>
+    <string name="scan_qr_id">Scan QR ID</string>
+    <string name="pengajuan_cuti">Pengajuan Cuti</string>
+    <string name="slip_gaji">Slip Gaji</string>
+    <string name="claim_lembur">Claim Lembur</string>
+    <string name="status_absen">Status Absen</string>
+    <string name="sisa_cuti">Sisa Cuti</string>
+    <string name="pengumuman">Pengumuman</string>
+    <string name="beranda">Beranda</string>
+    <string name="riwayat">Riwayat</string>
+    <string name="persetujuan">Persetujuan</string>
+    <string name="profil">Profil</string>
+    <string name="jam_masuk">Jam Masuk</string>
+    <string name="jam_pulang">Jam Pulang</string>
+    <string name="lokasi">Lokasi</string>
+    <string name="check_in">Check In</string>
+    <string name="check_out">Check Out</string>
+    <string name="biometric_prompt">Autentikasi diperlukan untuk melihat Slip Gaji</string>
+    <string name="biometric_subtitle">Gunakan sidik jari atau pengenalan wajah</string>
+    <string name="cancel">Batal</string>
+    <string name="export_pdf">Ekspor PDF</string>
+    <string name="ajukan_cuti">Ajukan Cuti</string>
+    <string name="tanggal_mulai">Tanggal Mulai</string>
+    <string name="tanggal_selesai">Tanggal Selesai</string>
+    <string name="jenis_cuti">Jenis Cuti</string>
+    <string name="alasan">Alasan</string>
+    <string name="unggah_dokumen">Unggah Dokumen</string>
+    <string name="submit">Kirim</string>
+    <string name="status_pending">Pending</string>
+    <string name="status_approved">Disetujui</string>
+    <string name="status_rejected">Ditolak</string>
+    <string name="gaji_pokok">Gaji Pokok</string>
+    <string name="tunjangan">Tunjangan</string>
+    <string name="lembur">Lembur</string>
+    <string name="potongan">Potongan</string>
+    <string name="total_gaji">Total Gaji</string>
+    <string name="sisa_cuti_tahunan">Sisa Cuti Tahunan</string>
+    <string name="hari">hari</string>
+    <string name="success_scan">Berhasil Scan!</string>
+    <string name="failed_scan">Gagal Scan</string>
+    <string name="loading">Memuat...</string>
+</resources>
